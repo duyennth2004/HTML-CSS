@@ -1,0 +1,67 @@
+.roadmap_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.roadmap_club {
+  width: 1140px;
+  height: 510px;
+  margin-top: 200px;
+  background: linear-gradient(123deg, #A96BF7 0%, #3103B5 100%);
+  border-radius: 24px;
+  text-align: left;
+  padding-left: 70px;  
+}
+.club {
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 72px;
+  padding-top: 52px;
+  margin-bottom: 0;
+}
+.roadmap_desc {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 36px;
+  word-wrap: break-word;
+  height: 72px;
+  width: 990px;
+  margin-bottom: 20px;
+}
+.roadmap_list {
+  display: flex;
+  align-items: center;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.list_desc {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 16px;
+}
+.join_btn {
+  height: 68px;
+  width: 248px;
+  color: #10151A;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 36px;
+  background: linear-gradient(180deg, #FFD600 0%, #FFB800 100%);
+  box-shadow: 0px 9px 44px rgba(255, 214, 0, 0.19);
+  border-radius: 16px;
+  margin-top: 44px;
+}
+.learn_btn {
+  height: 68px;
+  width: 200px;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 36px;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 16px;
+  margin-left: 28px;
+}

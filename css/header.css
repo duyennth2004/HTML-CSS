@@ -1,0 +1,68 @@
+.image_header {
+  position: relative;
+  top: 0;
+  left: 0;
+  min-width: 1024px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 128px;
+  width: 1140px;
+  position: absolute;
+  top: 0;
+}
+.header_left {
+  display: flex;
+  align-items: center;
+
+}
+.logo {
+  width: 59.63px; height: 35.23px;
+  padding-top: 12.17px; padding-bottom: 12.23px;
+  margin-right: 10px;
+}
+.superdao {
+  color: white;
+  font-size: 28.13px;
+  font-weight: 700;
+}
+
+.header_right {
+  display: flex;
+}
+.header_right p {
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 52px;
+}
+.twitter_container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.twitter_btn {
+  position: relative;
+  color: white;
+  margin-left: 22px;
+  font-size: 16px;
+  font-weight: 700;
+  height: 40px;
+  width: 120px;
+  background: #262E37;
+  border: none;
+  border-radius: 8px;
+  padding-left: 20px;
+}
+.twitter_icon {
+  position: absolute;
+  left: 36px;
+  width: 24px; height: 24px;
+  margin-right:8px;
+
+}
